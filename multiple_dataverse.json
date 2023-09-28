@@ -1,0 +1,17 @@
+[
+  {
+    "alias": "second_alias_1_2",
+    "name": "Second Dataverse Very New 2",
+    "dataverseContacts": [
+      {
+        "contactEmail": "fangfang.wang@simtech.uni-stuttgart.de"
+      }
+    ],
+    "role_definition": [
+      {
+        "assignee": "@fangfang.wang",
+        "role": "admin"
+      }
+    ]
+  }
+]
